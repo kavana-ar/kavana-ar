@@ -7,8 +7,6 @@ I have developed skills in data analysis, data cleaning, SQL querying, data visu
 
 I am currently looking for an opportunity where I can apply my skills to real-world business problems, learn from experienced professionals, and grow as a Data Analyst.
 
----
-
 ## 📊 What I Do
 
 - Query and analyze data using SQL
@@ -19,13 +17,9 @@ I am currently looking for an opportunity where I can apply my skills to real-wo
 - Generate reports and meaningful insights
 - Work with databases such as MySQL and PostgreSQL
 
----
-
 ## 📚 Projects
 
 Welcome to my portfolio, where i showcase my project.
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -34,15 +28,10 @@ Welcome to my portfolio, where i showcase my project.
 - Data Visualization: Power BI, Excel
 - Libraries: Pandas, NumPy, Matplotlib
 
----
-
 ## 👋🏻 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/kavanaar-
-
 📧 Email: kavanaar245@gmail.com
-
----
 
 ⭐ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
 
