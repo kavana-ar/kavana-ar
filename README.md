@@ -31,6 +31,7 @@ Welcome to my portfolio, where i showcase my project.
 ## 👋🏻 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/kavanaar-
+
 📧 Email: kavanaar245@gmail.com
 
 ⭐ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
