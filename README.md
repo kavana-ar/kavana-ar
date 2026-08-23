@@ -25,37 +25,24 @@ I am currently looking for an opportunity where I can apply my skills to real-wo
 
 Welcome to my portfolio, where i showcase my project.
 
-
-
 ---
 
 🛠️ Tools & Technologies
 
-Languages:SQL, Python
-
-Databases:MySQL, PostgreSQL
-
-Data Analysis:Excel, Python, Statistics
-
-Data Visualization:Power BI, Excel
-
-Libraries:Pandas, NumPy, Matplotlib
-
-Other Tools:Jupyter Notebook, GitHub
-
----
-
-👩🏻‍💻 My Goal
-
-My goal is to start my career as a Data Analyst and continuously improve my analytical and technical skills while working on real-world data problems.
+- Languages:SQL, Python
+- Databases:MySQL, PostgreSQL
+- Data Analysis:Excel, Python, Statistics
+- Data Visualization:Power BI, Excel
+- Libraries:Pandas, NumPy, Matplotlib
+- Other Tools:Jupyter Notebook, GitHub
 
 ---
 
 👋🏻 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn profile link here
+💼 LinkedIn:(https://www.linkedin.com/in/kavanaar-)
 
-📧 Email: Add your professional email here
+📧 Email: kavanaar245@gmail.com
 
 🐙 GitHub: You are already here! 😊
 
