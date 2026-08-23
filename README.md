@@ -7,7 +7,7 @@ I have developed skills in data analysis, data cleaning, SQL querying, data visu
 
 I am currently looking for an opportunity where I can apply my skills to real-world business problems, learn from experienced professionals, and grow as a Data Analyst.
 
-### 📊 What I Do
+## 📊 What I Do
 
 - Query and analyze data using SQL
 - Clean and transform data using Python
