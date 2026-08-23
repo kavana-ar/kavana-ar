@@ -9,7 +9,7 @@ I am currently looking for an opportunity where I can apply my skills to real-wo
 
 ---
 
-📊 What I Do
+##📊 What I Do
 
 - Query and analyze data using SQL
 - Clean and transform data using Python
@@ -21,30 +21,26 @@ I am currently looking for an opportunity where I can apply my skills to real-wo
 
 ---
 
-📚 Projects
+##📚 Projects
 
 Welcome to my portfolio, where i showcase my project.
 
 ---
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 
-- Languages:SQL, Python
-- Databases:MySQL, PostgreSQL
-- Data Analysis:Excel, Python, Statistics
-- Data Visualization:Power BI, Excel
-- Libraries:Pandas, NumPy, Matplotlib
-- Other Tools:Jupyter Notebook, GitHub
+- Languages: SQL, Python
+- Databases: MySQL, PostgreSQL
+- Data Visualization: Power BI, Excel
+- Libraries: Pandas, NumPy, Matplotlib
 
 ---
 
-👋🏻 Connect With Me
+##👋🏻 Connect With Me
 
-💼 LinkedIn:(https://www.linkedin.com/in/kavanaar-)
+💼 LinkedIn: https://www.linkedin.com/in/kavanaar-
 
 📧 Email: kavanaar245@gmail.com
-
-🐙 GitHub: You are already here! 😊
 
 ---
 
