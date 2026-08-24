@@ -19,7 +19,7 @@ I am currently looking for an opportunity where I can apply my skills to real-wo
 
 ## 📚 Projects
 
-Welcome to my portfolio, where i showcase my project.
+Welcome to my portfolio, where i showcase my [projects](https://github.com/kavana-ar/Data-Analyst-Projects).
 
 ## 🛠️ Tools & Technologies
 
