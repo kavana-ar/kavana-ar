@@ -12,10 +12,7 @@ I am currently looking for an opportunity where I can apply my skills to real-wo
 - Query and analyze data using SQL
 - Clean and transform data using Python
 - Perform data analysis using Excel
-- Create interactive dashboards using Power BI
-- Identify trends and patterns in data
-- Generate reports and meaningful insights
-- Work with databases such as MySQL and PostgreSQL
+- Create interactive dashboards using Power BI.
 
 ## 📚 Projects
 
