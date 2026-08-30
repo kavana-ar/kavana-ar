@@ -1,22 +1,8 @@
 # 🙋‍♀️ Introducing Myself
 Hi, I'm Kavana A.R
+Data Analyst | SQL | Python | Power BI | Excel
 
-I am an aspiring Data Analyst with a strong interest in understanding data, identifying patterns, and turning raw information into meaningful insights.
-
-I have developed skills in data analysis, data cleaning, SQL querying, data visualization, and reporting. I enjoy working with data to solve problems and support better decision-making.
-
-I am currently looking for an opportunity where I can apply my skills to real-world business problems, learn from experienced professionals, and grow as a Data Analyst.
-
-## 📊 What I Do
-
-- Query and analyze data using SQL
-- Clean and transform data using Python
-- Perform data analysis using Excel
-- Create interactive dashboards using Power BI.
-
-## 📚 Projects
-
-Welcome to my portfolio, where I showcase my [projects](https://github.com/kavana-ar/Portfolio/blob/main/README.md).
+I completed my Master’s degree in Computer Applications and developed a strong interest in Data Analytics. I enjoy working with data, finding patterns, and turning information into meaningful insights. 
 
 ## 🛠️ Tools & Technologies
 
@@ -24,6 +10,10 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/kavan
 - Databases: MySQL, PostgreSQL
 - Data Visualization: Power BI, Excel
 - Libraries: Pandas, NumPy, Matplotlib
+
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/kavana-ar/Portfolio/blob/main/README.md).
 
 ## 👋🏻 Connect With Me
 
@@ -37,7 +27,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/kavan
 **kavana-ar/kavana-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
