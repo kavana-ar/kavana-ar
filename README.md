@@ -1,5 +1,6 @@
 # 🙋‍♀️ Introducing Myself
 Hi, I'm Kavana A.R
+
 Data Analyst | SQL | Python | Power BI | Excel
 
 I completed my Master’s degree in Computer Applications and developed a strong interest in Data Analytics. I enjoy working with data, finding patterns, and turning information into meaningful insights. 
